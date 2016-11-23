@@ -3,7 +3,6 @@
 
 #include <iostream>
 using namespace std; 
-
 int main()
 {
 	int tablica1[10] = { 1, 13, 43, 77, 88, 109, 121, 144, 165, 200 };
