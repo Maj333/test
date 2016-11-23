@@ -11,7 +11,7 @@ using std::swap;
 
 // a[r][c]
 // r - liczba wierszy
-// c - liczba kolumn
+// c - liczba kolumnhjkhjkh
 template<typename Number> void printMatrix(const Number** a, const std::size_t r, const std::size_t c) {
 	if(a == nullptr) {
 		return;
