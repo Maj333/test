@@ -12,7 +12,7 @@
 
 #include "stdio.h"
 
-int NextWord(char* Alf,char* slowo, short n, short k)
+int NextWord(char* Alf,char* slowo, shorthjkhjkhj n, short k)
 {
         short i=k-1;
         short j=0;

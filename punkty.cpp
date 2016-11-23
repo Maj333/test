@@ -1,4 +1,4 @@
-//Program sprawdza, czy trzy punkty sa wspolliniowe
+khjk//Program sprawdza, czy trzy punkty sa wspolliniowe
 //Program pobrano ze strony www.algorytm.org
 //Opracowal Michal Knasiecki
 

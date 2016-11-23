@@ -14,7 +14,7 @@ int partition(int tablica[], int p, int r) // dzielimy tablice na dwie czesci, w
 			j--;
 		while (tablica[i] < x) // dopoki elementy sa mniejsze od x
 			i++;
-		if (i < j) // zamieniamy miejscami gdy i < j
+		if (i < j) // zamieniahjkhjkhjmy miejscami gdy i < j
 		{
 			w = tablica[i];
 			tablica[i] = tablica[j];

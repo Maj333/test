@@ -8,7 +8,7 @@ wydanej przez Fundację Wolnego Oprogramowania (Free Software Foundation) - wed�
 Niniejszy program rozpowszechniany jest z nadzieją, iż będzie on użyteczny - jednak BEZ JAKIEJKOLWIEK GWARANCJI, nawet domyślnej gwarancji
 PRZYDATNOŚCI HANDLOWEJ albo PRZYDATNOŚCI DO OKREŚLONYCH ZASTOSOWAŃ. W celu uzyskania bliższych informacji należy zapoznać się z Powszechną Licencją Publiczną GNU.
 */
-/**---------------------------------------------------------------------//
+/hjkhjkh**---------------------------------------------------------------------//
 // Implementacja algorytmu szyfrowania metoda Vigenere'a                //
 // Program obsluguje szyfrowanie i deszyfrowanie dla zadanego alfabetu, //
 // czyli zarowno tekst jak i klucz powinny zawierac sie w alfabecie     //

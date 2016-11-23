@@ -15,7 +15,7 @@ int main()
 	cout << "Ciag pierwszy: ";
 	for (i = 0; i < 10; i++)
 		cout << tablica1[i] << " ";
-	cout << endl;
+	cout << endl;jkhjkh
 	cout << "Ciag drugi: ";
 	for (i = 0; i < 10; i++)
 		cout << tablica2[i] << " ";
