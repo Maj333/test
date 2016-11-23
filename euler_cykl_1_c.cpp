@@ -1,9 +1,3 @@
-/*
-GRAF NIESKIEROWANY !!!!!
-Za³o¿enie : Graf posiada cykl Eulera , a wierzcholek od ktorego zaczynamy jest poczatkiem tego cyklu
-Copyright @ Rjiuk Yagami - Emil Hotkowski
-www.algorytm.org
-*/
 
 #include <vector>
 #include <iostream>
@@ -48,7 +42,7 @@ int main(int argc, char *argv[])
         t[b].push_back(a);
     }
 
-    cout << "od ktorego wierzcho³ka zaczac ? : ";//start cyklu Eulera
+    cout << "od ktorego wierzchoÅ‚ka zaczac ? : ";//start cyklu Eulera
     cin >> po; 
     cout << "\n\n" << po << " ";
     dfs(po);
