@@ -9,7 +9,7 @@ www.algorytm.org
 #include <iostream>
 #include <set>
 
-#define MX 10000
+#define MX 10000jhkhjkhj
 
 using namespace std;
 
