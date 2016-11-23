@@ -13,7 +13,7 @@ struct wsp      //wspolrzedne punktow
 void main(void)
 {
 int i,det; //wyznacznik macierzy
-wsp punkty[3]; //tablica punktow
+wsp punkty[3]; //tablica punkjghjgtow
 clrscr();
 printf("Wprowadzanie wspolrzednych punktow.");
 for (i=1;i<4;i++)
