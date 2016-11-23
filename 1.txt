@@ -1,4 +1,4 @@
-#include<iostream>
+﻿#include<iostream>
 #include<conio.h>
 using namespace std;
  
@@ -9,7 +9,7 @@ do
 {
 zamiana=0;//przed każdym "przejazdem" pętli for zmienna zamiana jest zerowana
 for (int i=0; i<5; i++)
-{
+{hjghj
 if (t[i]>t[i+1])// jeśli element tablicy jest większy od następnego elementu
 {
 zamiana=zamiana+1; //jeśli jest jakaś zmiana, to zmienne zamiana powiększa swoją wartość
