@@ -1,6 +1,3 @@
-﻿// Metoda Gaussa-Seidela
-// www.algorytm.org
-
 #include <iostream>
 using namespace std;
 #include <math.h>
