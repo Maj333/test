@@ -1,4 +1,4 @@
-﻿// Metoda Gaussa-Seidela
+// Metoda Gaussa-Seidela
 // www.algorytm.org
 
 #include <iostream>
@@ -12,7 +12,7 @@ int main()
 {
 	int n, i, j, k, stop;
 	float dzielnik;
-	float norma1, norma2;
+	float norma1, norma2;hjkhjk
 	float **A, **U, **L, **D, **I, *B, *B2, *x, *x2;
 	bool koniec;
 
@@ -41,7 +41,7 @@ int main()
 		I[i] = new float[n];
 	}
 
-	// stworzenie wektora wyrazow wonych i wektora wyników
+	// stworzenie wektora wyrazow wonych i wektora wynik�w
 	B = new float [n];
 	B2 = new float [n];
 	x = new float [n];
