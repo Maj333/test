@@ -1,6 +1,5 @@
 #include<iostream>
 using namespace std;
-
 int partition(int tablica[], int p, int r) // dzielimy tablice na dwie czesci, w pierwszej wszystkie liczby sa mniejsze badz rowne x, w drugiej wieksze lub rowne od x
 {
 	int x = tablica[p]; // obieramy x 
@@ -23,7 +22,6 @@ int partition(int tablica[], int p, int r) // dzielimy tablice na dwie czesci, w
 			return j;
 	}
 }
-
 void quicksort(int tablica[], int p, int r) // sortowanie szybkie
 {
 	int q;
